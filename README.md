@@ -5,7 +5,7 @@
 
 [[Paper]](https://arxiv.org/pdf/2306.15767.pdf) (ArXiv)
 
-The dataset will be released soon.
+The dataset can be download from [Google Drive](https://drive.google.com/drive/folders/1igFX0yISt4auaH7ijHde1pBfvna8nn3G?usp=sharing).
 
 ## Install the environment
 Use the Anaconda
